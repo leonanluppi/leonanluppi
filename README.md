@@ -17,8 +17,6 @@ Has experience acting in industries such as:
 
 Speaker and programming online training instructor.
 
-- 💼 &nbsp; Trabalhando como CTO/Professor na School of Net/Code Education/Full Cycle
-
 <br/>
 
 [![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonanluppi&show_icons=true&count_private=true)](https://github.com/leonanluppi)
